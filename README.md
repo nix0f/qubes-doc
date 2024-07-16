@@ -2,9 +2,8 @@
 
 URL canonico: https://www.qubes-os.org/doc/
 
-All [Qubes OS Project](https://github.com/QubesOS) documentation pages are
-stored as plain text files in this dedicated repository. By cloning and
-regularly pulling from this repo, users can maintain their own up-to-date
-offline copy of all Qubes documentation rather than relying solely on the Web.
+
+Tutte le pagine della documentazione del [progetto Qubes OS](https://github.com/QubesOS) sono
+archiviate come file di testo in questo repository dedicato. Clonando e aggiornando questo repository, utenti possono mantenere la copia aggiornata di tutta la documentazione di Qubes OS ofline anziché doversi affidare esclusivamente al Web.
 
 Per contribuire, visita la pagina [come modificare la documentazione](https://www.qubes-os.org/doc/how-to-edit-the-documentation/).
