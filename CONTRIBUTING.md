@@ -1,12 +1,5 @@
-# Contributing to `qubes-doc`
+# Contribuire alla `qubes-doc`
 
-Thank you for your interest in contributing to `qubes-doc`, the Qubes OS
-Project's dedicated documentation repository! Please see [how to edit the
-documentation](https://www.qubes-os.org/doc/how-to-edit-the-documentation/) for
-detailed contribution instructions.
+Grazie il tuo interessamento a contribuire alla `qubes-doc`, il repository dedicato alla documentazione del progetto Qubes OS! Consulta la pagina [come modificare la documentazione](https://www.qubes-os.org/doc/how-to-edit-the-documentation/) per le istruzioni dettagliate per i contributi.
 
-In addition, please take a moment to read our [documentation style
-guide](https://www.qubes-os.org/doc/documentation-style-guide/) before
-contributing. These guidelines are important to maintaining high standards of
-quality, and following them will increase the likelihood that your contribution
-will be accepted.
+Considera di prendere visione anche della nostra [guida allo stile della documentazione](https://www.qubes-os.org/doc/documentation-style-guide/) prima di cominciare. These guidelines are important to maintaining high standards of quality, and following them will increase the likelihood that your contribution will be accepted.
