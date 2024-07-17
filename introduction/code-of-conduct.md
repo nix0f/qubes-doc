@@ -41,17 +41,12 @@ sono:
 
 Esempi di comportamenti inaccettabili da parte dei partecipanti sono:
 
-- The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Reinforcing stereotypical models for illustration of non-technical users
-  (e.g. our mothers/grandmothers, etc.)
-- Public or private harassment, as defined by the [Citizen Code of
-  Conduct](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
-- Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+- L'utilizzo di linguaggio o immagini a sfondo sessuale e attenzioni o avances sessuali indesiderate
+- Trolling, commenti offensivi/denigratori e attacchi personali o politici
+- Rafforzamento di modelli stereotipati per definire utenti non tecnici (ad esempio, le nostre madri/nonne, ecc.)
+- Molestie pubbliche o private, come definite nel [Codice di Conddotta del Cittadino](https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md)
+- Pubblicazione di informazioni personali altrui, come un indirizzo fisico o elettronico, senza esplicito permesso
+- Altre condotte che potrebbe ragionevolmente essere considerate inappropriata in un ambiente professionale
 
 (Consulta le nostre [linee guida per le discussioni](/support/#discussion-guidelines).)
 
