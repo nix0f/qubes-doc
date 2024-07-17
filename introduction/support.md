@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /support/
 redirect_from:
@@ -12,15 +12,10 @@ redirect_from:
 - /doc/QubesLists/
 - /wiki/QubesLists/
 ref: 122
-title: Help, support, mailing lists, and forum
+title: Aiuto, supporto, mailing lists e forum
 ---
 
-The Qubes community is here to help! Since Qubes is a security-oriented
-operating system, we want to make sure you [stay safe](#staying-safe) as you
-get the support you need, and we want to make sure our community remains a
-friendly and productive place by ensuring we all follow the [Code of
-Conduct](/code-of-conduct/) and [discussion
-guidelines](#discussion-guidelines).
+La community di Qubes è qui per aiutarti! Visto che Qubes è un sistema operativo orientato alla sicurezza, vogliamo assicurarci che tu sia al [sicuro](#staying-safe) anche mentre ricevi il supporto di cui hai bisogno, e vogliamo assicurarci che la nostra comunità rimanga un luogo amichevole e produttivo assicurandoci che tutti seguiamo il [Codice di condotta](/code-of-conduct/) e [linee guida per la discussione](#discussion-guidelines).
 
 ## How to get help and support
 
