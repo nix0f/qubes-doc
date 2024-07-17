@@ -15,7 +15,7 @@ ref: 124
 title: Frequently asked questions (FAQ)
 ---
 
-## General & Security
+## Generale e Sicurezza
 
 ### Cos'è Qubes OS?
 
