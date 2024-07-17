@@ -12,32 +12,30 @@ title: Come contribuire
 
 Grazie per il tuo interesse nel contribuire a Qubes! Ecco alcuni dei tanti modi in cui puoi aiutare il progetto:
 
-* Controllare il [codice sorgente](/doc/source-code/)
-* [Report security issues](/security/)
-* [Send patches](/doc/source-code/#how-to-send-patches) to fix bugs or
-  implement features
-* [Contribute packages](/doc/package-contributions)
-* [Report bugs](/doc/issue-tracking/)
-* [Test new releases and updates](/doc/testing/)
-* Submit [HCL reports](/doc/hcl/) for your hardware
-* Record [video tours](/video-tours/)
-* Create [artwork](https://github.com/QubesOS/qubes-artwork) (plymouth themes,
-  installer themes, wallpapers, etc.)
-* [Write and edit the documentation](/doc/how-to-edit-the-documentation)
-* [Donate](/donate/) to the project
-* If you represent an organization, become a [Qubes partner](/partners/)
-* Add a [Qubes download mirror](/downloads/mirrors/)
-* Answer questions and discuss Qubes on the [mailing lists](/support/) and
-  [forum](/support/#forum)
-* Engage with us on social media:
-  * Follow us on [Twitter](https://twitter.com/QubesOS)
-  * Join us on [Reddit](https://www.reddit.com/r/Qubes/)
-  * Like us on [Facebook](https://www.facebook.com/QubesOS)
-  * Connect with us on [LinkedIn](https://www.linkedin.com/company/qubes-os/)
-* And last but not least, tell your friends and colleagues about how Qubes can
-  help them secure their digital lives!
+* Controlla il [codice sorgente](/doc/source-code/)
+* [Segnala problemi di sicurezza](/security/)
+* [Invia patch](/doc/source-code/#how-to-send-patches) per correggere bus o aggiungere funzionalità
+* [Contribuisci con i pacchetti](/doc/package-contributions)
+* [Segnala bug](/doc/issue-tracking/)
+* [Testa nuove versioni e aggiornamenti](/doc/testing/)
+* Invia [HCL reports](/doc/hcl/) per il tuo hardware
+* Registra [video tour](/video-tours/)
+* Crea [artwork](https://github.com/QubesOS/qubes-artwork) (temi per plymouth,
+  temi per l'installer, wallpapers, ecc.)
+* [Scrivi e modifica la documentazione](/doc/how-to-edit-the-documentation)
+* [Fai una donazione](/donate/) al progetto
+* Se sei un'azienda o organizzazione, diventa un [Qubes partner](/partners/)
+* Aggiungi un [mirror di download per Qubes](/downloads/mirrors/)
+* Rispondi alle domande e discussioni sulla [mailing lists](/support/) e
+  [forum](/support/#forum) di Qubes OS
+* Interagisci con noi sui social media:
+  * Seguici su [Twitter](https://twitter.com/QubesOS)
+  * Unisci a noi su [Reddit](https://www.reddit.com/r/Qubes/)
+  * Seguici su [Facebook](https://www.facebook.com/QubesOS)
+  * Connettiti con noi su [LinkedIn](https://www.linkedin.com/company/qubes-os/)
+* Ultimo, ma non per importanza, racconta ad amici e colleghi come Qubes può aiutarli a rendere la loro vita digitale sicura!
 
-Contributing Code
+Contribuire al Codice
 -----------------
 
 If you're interested in contributing code, the best starting point is to have a
@@ -45,10 +43,10 @@ look at our [GitHub issues](https://github.com/QubesOS/qubes-issues/issues) to
 see which tasks are the most urgent. You can filter issues depending on your
 interest and experience. For example, here are some common issue labels:
 
-* [Help wanted](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&utf8=%E2%9C%93)
-* [UX and usability](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3AUX)
+* [Richieste Aiuto](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&utf8=%E2%9C%93)
+* [UX e usabilità](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3AUX)
 * [Windows tools](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+windows-tools%22)
-* [Documentation](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+doc%22)
+* [Documentazione](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+doc%22)
 * [Privacy](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22privacy%22%20)
 * [Debian/Ubuntu](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+Debian%2FUbuntu%22)
 
