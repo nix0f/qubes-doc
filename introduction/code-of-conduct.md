@@ -7,21 +7,9 @@ title: Codice di condotta
 ---
 
 ## Introduzione
+Il presente Codice di condotta è un documento collaborativo e in evoluzione che tenta di definire in modo trasparente una serie di standard condivisi e relativi alla condotta del progetto Qubes OS. Non intende essere una dichiarazione o un'approvazione, implicita o esplicita, di alcun particolare atteggiamento, credo o modo di vivere politico o filosofico. Si tratta piuttosto di un tentativo di trovare una ragionevole via di mezzo tra gli inevitabili disaccordi sulla libertà di espressione che sorgono in una comunità ampia e diversificata di persone provenienti da tutto il mondo. È concepito per essere un mezzo pratico per servire gli interessi dei nostri utenti, dei contributori e del progetto stesso.
+Ti invitiamo a visualizzare la [cronologia delle modifiche](https://github.com/QubesOS/qubes-doc/commits/master/about/code-of-conduct.md) apportate a questo documento e la [discussione](https://github.com/QubesOS/qubes-issues/issues/2163) che ha portato alla sua creazione.
 
-This Code of Conduct is a collaborative, evolving document that attempts to
-transparently set out a public set of standards regarding appropriate conduct
-in the Qubes OS Project. It is *not* intended to be a statement or endorsement,
-whether implicit or explicit, of any particular political or philosophical
-attitude, belief, or way of living. Rather, it is an attempt to find a
-reasonable middle ground among the inevitable disagreements regarding free
-expression that arise in a large, diverse community of people from around the
-world. It is intended to be a practical means of serving the best interests of
-our users, contributors, and the project itself. We welcome you to view the
-[history of
-changes](https://github.com/QubesOS/qubes-doc/commits/master/about/code-of-conduct.md)
-to this document and the
-[discussion](https://github.com/QubesOS/qubes-issues/issues/2163) leading to
-its creation.
 
 ## Il nostro impegno
 
