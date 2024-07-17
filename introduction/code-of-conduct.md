@@ -1,12 +1,12 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /code-of-conduct/
 ref: 118
-title: Code of conduct
+title: Codice di condotta
 ---
 
-## Introduction
+## Introduzione
 
 This Code of Conduct is a collaborative, evolving document that attempts to
 transparently set out a public set of standards regarding appropriate conduct
@@ -23,7 +23,7 @@ to this document and the
 [discussion](https://github.com/QubesOS/qubes-issues/issues/2163) leading to
 its creation.
 
-## Our Pledge
+## Il nostro impegno
 
 The Qubes OS project creates a reasonably secure OS. In the interest of
 fostering an open and welcoming environment, we as contributors and maintainers
@@ -33,7 +33,7 @@ gender identity and expression, level of experience, nationality, personal
 appearance, race, religion, sexual identity and orientation, or other
 characteristic.
 
-## Our Standards
+## I nostri standard
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -60,7 +60,7 @@ Examples of unacceptable behavior by participants include:
 
 (Please also see our [discussion guidelines](/support/#discussion-guidelines).)
 
-## Our Responsibilities
+## Le nostre responsabilità
 
 Project maintainers are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
@@ -70,7 +70,7 @@ and other contributions, or to ban temporarily or permanently any contributor
 for other behaviors that they deem inappropriate, threatening, offensive, or
 harmful.
 
-## Scope
+## Scopo
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
@@ -106,7 +106,7 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-## A Note on Trust
+## Una nota sulla fiducia
 
 Expect all contributions to be reviewed with some amount of healthy adversarial
 skepticism, regardless of your perceived standing in the community. This is a
@@ -117,7 +117,7 @@ contributions as being met with distrust -- we are most definitely thankful and
 appreciative of your efforts, but must also remain vigilant in order to ensure
 continued quality and safeguard against potential sabotage.
 
-## Attribution
+## Attribuzione
 
 The initial published version of this Code of Conduct was adapted from the
 [Contributor Covenant, version
