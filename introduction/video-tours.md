@@ -22,13 +22,13 @@ Guarda tutti gli interventi del Qubes OS Summit 2022, che si è svolto dal 9 all
 
 ## Micah Lee presenta "Qubes OS: il sistema operativo che può proteggerti anche se vieni violato"
 
-[Micah Lee](https://micahflee.com/), a long-time Qubes [advocate](/endorsements/), presented [Qubes OS: The Operating System That Can Protect You Even If You Get Hacked](https://www.hope.net/schedule.html#-qubes-os-the-operating-system-that-can-protect-you-even-if-you-get-hacked-) at the [Circle of HOPE](https://www.hope.net/index.html) conference, which took place July 20-22, 2018 in New York City.
+[Micah Lee](https://micahflee.com/), un [sostenitore](/endorsements/) di lunga data di Qubes, presenta [Qubes OS: The Operating System That Can Protect You Even If You Get Hacked](https://www.hope.net/schedule.html#-qubes-os-the-operating-system-that-can-protect-you-even-if-you-get-hacked-) alla conferenza [Circle of HOPE](https://www.hope.net/index.html), tenutasi dal 20 al 22 luglio 2018 a New York.
 
 <div class="video more-bottom">
   <iframe class="responsive" referrerpolicy="no-referrer" scrolling="no" allowfullscreen src="https://livestream.com/accounts/9197973/events/8286152/videos/178431606/player?autoPlay=false"></iframe>
 </div>
 
-## Explaining Computers presents "Qubes OS: Security Oriented Operating System"
+## Explaining Computers presenta "Qubes OS: sistema operativo orientato alla sicurezza"
 
 <div class="video">
   <iframe class="responsive" referrerpolicy="no-referrer" scrolling="no" allowfullscreen src="https://www.youtube-nocookie.com/embed/hWDvS_Mp6gc"></iframe>
