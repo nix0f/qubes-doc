@@ -15,21 +15,21 @@ ref: 122
 title: Aiuto, supporto, mailing lists e forum
 ---
 
-La community di Qubes è qui per aiutarti! Visto che Qubes è un sistema operativo orientato alla sicurezza, vogliamo assicurarci che tu sia al [sicuro](#staying-safe) anche mentre ricevi il supporto di cui hai bisogno, e vogliamo assicurarci che la nostra comunità rimanga un luogo amichevole e produttivo assicurandoci che tutti seguiamo il [Codice di condotta](/code-of-conduct/) e [linee guida per la discussione](#discussion-guidelines).
+La community di Qubes è qui per aiutarti! Visto che Qubes è un sistema operativo orientato alla sicurezza, vogliamo essere certi che tu sia al [sicuro](#staying-safe) anche mentre ricevi il supporto di cui hai bisogno. Vogliamo altresì assicurarci che la nostra comunità rimanga un luogo amichevole e produttivo dove tutti seguano il [Codice di condotta](/code-of-conduct/) e [linee guida per la discussione](#discussion-guidelines).
 
-## How to get help and support
+## Come ottenere aiuto e supporto
 
-First, let's see what kind of help you need.
+Per prima cosa, vediamo di che tipo di aiuto hai bisogno.
 
-### I have a problem or a question.
+### Ho un problema o una richiesta
 
-No worries! Here's how we recommend proceeding:
+Nessun problema! Ecco come ti consigliamo di procedere:
 
 1. Check the [documentation](/doc/). There may already be a page about it.
    Specifically, check out the [How-To Guides](/doc/#how-to-guides) and
    [Troubleshooting](/doc/#troubleshooting) sections.
 
-2. Search the [FAQ](/faq/). Your question might already be answered.
+2. Cerca nelle [FAQ](/faq/). La tua domanda potrebbe già avere una risposta.
 
 3. Try [searching the issue tracker](/doc/issue-tracking/#search-tips). There
    may already be an open **or closed** issue about your problem. The issue
