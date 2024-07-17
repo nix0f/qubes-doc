@@ -98,14 +98,7 @@ members of the project's leadership.
 
 ## Una nota sulla fiducia
 
-Expect all contributions to be reviewed with some amount of healthy adversarial
-skepticism, regardless of your perceived standing in the community. This is a
-security project, and allowing ourselves to get complacent while reviewing code
-simply because it comes from a well-known party would not be in the best
-interest of the project. Please try not to get offended if you perceive your
-contributions as being met with distrust -- we are most definitely thankful and
-appreciative of your efforts, but must also remain vigilant in order to ensure
-continued quality and safeguard against potential sabotage.
+Tutti i contributi, indipendentemente dall'autore e da come questo è percepito all'interno della comunità, saranno esaminati con una certa dose di sano scetticismo. Questo è un progetto improntato sulla sicurezza e non può permettersi di abbassare la guardia. Nemmeno se i contributi provengono da persone conosciute. Non sentitevi quindi offesi se i vostri contributi saranno accolti con "diffidenza": vi siamo assolutamente grati e apprezziamo i vostri sforzi, ma dobbiamo anche rimanere vigili per garantire una qualità continua e salvaguardarci da potenziali sabotaggi.
 
 ## Attribuzione
 Questo Codice di condotta è stato inizialmente pubblicato adattando e prendendo spunto dalla versione 1.4 del [Contributor Covenant](https://contributor-covenant.org/version/1/4) e dal [Codice di condotta di Rust](https://www.rust-lang.org/en-US/conduct.html)
