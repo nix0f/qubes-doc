@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: site
 permalink: /screenshots/
 redirect_from:
@@ -7,18 +7,18 @@ redirect_from:
 - /doc/QubesScreenshots/
 - /wiki/QubesScreenshots/
 ref: 123
-title: Screenshots
+title: Screenshot
 ---
 
 [![r4.0-xfce-desktop.png](/attachment/doc/r4.0-xfce-desktop.png)](/attachment/doc/r4.0-xfce-desktop.png)
 
-The default desktop environment is Xfce4.
+Il desktop environment predefinito è Xfce4.
 
 * * * * *
 
 [![r4.0-xfce-start-menu.png](/attachment/doc/r4.0-xfce-start-menu.png)](/attachment/doc/r4.0-xfce-start-menu.png)
 
-Starting applications from different domains (AppVMs) is very easy.
+Avviare applicazioni da domini diversi (AppVM) è molto semplice.
 
 * * * * *
 
@@ -77,7 +77,7 @@ Qubes supports secure copy-and-paste operations between AppVMs. Only the user ca
 
 [!["r4.0-copy-to-other-appvm-1.png](/attachment/doc/r4.0-copy-to-other-appvm-1.png)](/attachment/doc/r4.0-copy-to-other-appvm-1.png) [![r4.0-copy-to-other-appvm-3.png](/attachment/doc/r4.0-copy-to-other-appvm-2.png)](/attachment/doc/r4.0-copy-to-other-appvm-2.png)
 
-Qubes also supports secure file copying between AppVMs.
+Qubes supporta anche la copia sicura dei file tra AppVM.
 
 * * * * *
 
@@ -89,17 +89,18 @@ Qubes' unique DisposableVMs (DispVMs) allow the user to open any file in a dispo
 
 [![r4.0-convert-to-trusted-pdf-1.png](/attachment/doc/r4.0-convert-to-trusted-pdf-1.png)](/attachment/doc/r4.0-convert-to-trusted-pdf-1.png) [![r4.1-converting-pdf.png](/attachment/doc/r4.1-converting-pdf.png)](/attachment/doc/r4.1-converting-pdf.png)
 
-Qubes provides an advanced infrastructure for programming inter-VM services, such as a PDF converter for untrusted files (which is described in [this article](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)).
+Qubes fornisce un'infrastruttura avanzata per la programmazione di servizi inter-VM, come un convertitore PDF per file non attendibili (descritto in [questo articolo](https://blog.invisiblethings.org/2013/02/21/converting-untrusted-pdfs-into-trusted.html)).
 
 * * * * *
 
 [![r4.0-manager-firewall.png](/attachment/doc/r4.0-manager-firewall.png)](/attachment/doc/r4.0-manager-firewall.png)
 
-Qubes provides a dedicated firewall that itself runs in an isolated FirewallVM.
+Qubes mette a disposizione un firewall dedicato che viene eseguito in una FirewallVM isolata.
 
 * * * * *
 
-And some more screenshots:
+
+E qualche altro screenshot:
 
 [![r4.0-xfce-red-and-green-terminals.png](/attachment/doc/r4.0-xfce-red-and-green-terminals.png)](/attachment/doc/r4.0-xfce-red-and-green-terminals.png)
 
