@@ -118,8 +118,4 @@ appreciative of your efforts, but must also remain vigilant in order to ensure
 continued quality and safeguard against potential sabotage.
 
 ## Attribuzione
-
-The initial published version of this Code of Conduct was adapted from the
-[Contributor Covenant, version
-1.4](https://contributor-covenant.org/version/1/4) and the [Rust Code of
-Conduct](https://www.rust-lang.org/en-US/conduct.html).
+Questo Codice di condotta è stato inizialmente pubblicato adattando e prendendo spunto dalla versione 1.4 del [Contributor Covenant](https://contributor-covenant.org/version/1/4) e dal [Codice di condotta di Rust](https://www.rust-lang.org/en-US/conduct.html)
