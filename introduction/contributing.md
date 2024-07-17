@@ -50,8 +50,4 @@ interest and experience. For example, here are some common issue labels:
 * [Privacy](https://github.com/QubesOS/qubes-issues/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20label%3A%22privacy%22%20)
 * [Debian/Ubuntu](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22C%3A+Debian%2FUbuntu%22)
 
-Before you engage in an activity that will take you a significant amount of
-time, like implementing a new feature, it's always good to contact us first,
-preferably via the [qubes-devel](/support/#qubes-devel) mailing list. Once
-we've worked out the details, we'll be grateful to [receive your
-patch](/doc/source-code/#how-to-send-patches).
+Prima di iniziare un'attività che potrebbe richiederà molto tempo, come l'implementazione di una nuova funzionalità, è sempre bene contattarci prima, preferibilmente tramite la mailing list [qubes-devel](/support/#qubes-devel). Una volta definiti i dettagli, saremo grati di [ricevere la tua patch](/doc/source-code/#how-to-send-patches).
