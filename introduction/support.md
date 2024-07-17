@@ -32,7 +32,7 @@ Nessun problema! Ecco come ti consigliamo di procedere:
 2. Cerca nelle [FAQ](/faq/). La tua domanda potrebbe già avere una risposta.
 
 3. Prova a [cercare nel  tracker dei problemi](/doc/issue-tracking/#search-tips). Potrebbe già esserci una richiesta aperta **o chiusa** relativa al tuo stesso problema. Il tracker
-   tracker viene costantemente aggiornato con bug noti e potrebbe contenere soluzioni alternative per i problemi che stai riscontrando. Se ci sono problemi appuntati su in alto, assicurati di controllarli prima!
+   viene costantemente aggiornato con bug noti e potrebbe contenere soluzioni alternative per i problemi che stai riscontrando. Se ci sono problemi appuntati su in alto, assicurati di controllarli prima!
 
 4. Prova a [cercare nel forum di Qubes](https://forum.qubes-os.org/). Potrebbe
    essere già un argomento di discussione.
@@ -42,24 +42,19 @@ Potrebbe esserci già un thread pertinente.
 
 ###  Non ho trovato una soluzione o una risposta!
 
-Sorry to hear that! In that case, we recommend asking for help on the [Qubes
-Forum](https://forum.qubes-os.org/) or on the [`qubes-users` mailing
-list](#qubes-users). Choose the venue you prefer, but please don't ask on both
-at the same time! Before you ask, please review our [discussion
-guidelines](#discussion-guidelines) and StackOverflow's advice on [how to ask
-good questions](https://stackoverflow.com/help/how-to-ask). Don't forget to
-[stay safe](#staying-safe)!
+Ci dispiace! In questo caso ti consigliamo di chiedere aiuto sul [Forum di Qubes] (https://forum.qubes-os.org/) o sulla [`qubes-users` mailing
+list](#qubes-users). Scegli il canale che preferisci, ma per favore non chiedere su entrambi contemporaneamente! Prima di chiedere, consulta le nostra [linee guida per le discussioni](#discussion-guidelines) e i consigli di StackOverflow su [come porre buone domande](https://stackoverflow.com/help/how-to-ask). Non dimenticare di
+[stare al sicuro](#staying-safe)!
 
 ### Non ho bisogno di supporto, ma penso di aver trovato un bug.
 
-We'd be grateful if you reported it (but please make sure no one else has
-already reported it first)! Please see [Issue Tracking](/doc/issue-tracking/)
-for details.
+Te ne siamo davvero riconoscenti (prima della segnalazione però assicurati che qualcun'altro non lo abbia già segnalato)! Consulta l'[issue tracking](/doc/issue-tracking/)
+per i dettagli.
 
 ### Non ho bisogno di supporto, ma vorrei richiedere una funzionalità.
 
-No promises, but we'd be happy to consider it! Please see [Issue
-Tracking](/doc/issue-tracking/) for details.
+Non possiamo prometterlo ma saremo felici di prenderla in considerazione! Consulta l'[Issue
+Tracking](/doc/issue-tracking/) per i dettagli
 
 ### Qual è il posto migliore per discutere di Qubes?
 
