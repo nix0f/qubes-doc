@@ -40,13 +40,7 @@ Esempi di comportamenti inaccettabili da parte dei partecipanti sono:
 
 ## Le nostre responsabilità
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior. This action can include
-removing, editing, or rejecting comments, commits, code, wiki edits, issues,
-and other contributions, or to ban temporarily or permanently any contributor
-for other behaviors that they deem inappropriate, threatening, offensive, or
-harmful.
+I maintainer del progetto hanno la responsabilità di far rispettare gli standard di comportamento e di intraprendere azioni correttive adeguate in caso di comportamenti inaccettabili. Queste azioni possono includere la rimozione, la modifica o il rifiuto di commenti, contributi (commit), codice, modifiche wiki, segnalazioni di problemi e altri contributi, oppure la sospensione temporanea o permanente di qualsiasi collaboratore per comportamenti ritenuti inappropriati, minacciosi, offensivi o dannosi.
 
 ## Ambito
 
