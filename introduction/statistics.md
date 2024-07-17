@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: site
 permalink: /statistics/
 redirect_from:
@@ -16,44 +16,44 @@ title: Statistics
 
 ## FAQ
 
-### How often is this graph updated?
+### Con quale frequenza viene aggiornato questo grafico?
 
-Daily.
+Giornalmente.
 
-### Why is the bar for the current month so low?
+### Perché la barra del mese corrente è così bassa?
 
-Since the graph is updated daily, the bar for the current month will be very low at the start of the month and rise gradually until the end of the month.
+Visto che il grafico viene aggiornato quotidianamente, la barra del mese corrente sarà molto bassa all'inizio del mese e aumenterà gradualmente fino alla fine del mese.
 
-### How is the userbase estimated?
+### Come viene stimata la base utenti?
 
-We simply count the number of unique IPv4 addresses that connect to the Qubes update servers each month (except for Tor connections; see [below](#how-are-tor-users-counted)). (Note: Users who have manually configured their systems to bypass the metalink and connect directly to a mirror are not counted.)
+Contiamo semplicemente il numero di indirizzi IPv4 univoci che si connettono ai server di aggiornamento di Qubes ogni mese (ad eccezione delle connessioni Tor; vedi [sotto](#how-are-tor-users-counted)). (Nota: gli utenti che hanno configurato manualmente i propri sistemi per bypassare il metalink e connettersi direttamente a un mirror non vengono conteggiati.)
 
-### How are Tor users counted?
+### Come vengono conteggiati gli utenti Tor?
 
-We estimate the number of Tor users as a proportion of the total number of *requests* from Tor exit nodes on the assumption that the proportion of users to requests is roughly the same for both clearnet and Tor users.
-To be precise, the formula is:
+Stimiamo il numero di utenti Tor quale proporzione del numero totale di *richieste* dai nodi di uscita Tor partendo dal presupposto che la proporzione di utenti rispetto alle richieste sia più o meno la stessa sia per gli utenti Clearnet che per quelli Tor.
+Per essere precisi la formula è:
 
 ```
 tor_users = tor_requests * (plain_users / plain_requests)
 ```
 
-Where:
+Dove:
 
-- `tor_users` is the estimated number of Qubes users who download updates via Tor each month.
-- `tor_requests` is the total number of requests the Qubes update servers receive from Tor exit nodes each month.
-- `plain_users` is the number of unique clearnet IPv4 addresses that connect to the Qubes update servers each month.
-- `plain_requests` is the total number of requests the Qubes update servers receive from clearnet IPv4 addresses each month.
+- `tor_users` è il numero stimato di utenti Qubes che scaricano aggiornamenti tramite Tor ogni mese.
+- `tor_requests` è il numero totale di richieste che i server di aggiornamento Qubes ricevono dai nodi di uscita Tor ogni mese.
+- `plain_users` è il numero di indirizzi IPv4 clearnet univoci che si collegano ogni mese ai server di aggiornamento di Qubes.
+- `plain_requests` è il numero totale di richieste che i server di aggiornamento Qubes ricevono ogni mese dagli indirizzi IPv4 clearnet.
 
 We cross-reference the list of connecting IP addresses with [TorDNSEL's exit lists](https://metrics.torproject.org/collector.html#type-tordnsel) in order to distinguish Tor and clearnet IPs and requests.
 For this purpose, we count an IP address as belonging to a Tor exit node if there was a Tor exit node active for that address within the 24-hour periods before or after it connected to the Qubes update servers.
 
-### What kinds of data do you collect about Qubes users?
+### Che tipo di dati raccogliete sugli utenti di Qubes?
 
-Please see our [Privacy Policy](/privacy/).
+Consulta la nostra [Privacy Policy](/privacy/).
 
-### Where can I find the raw data and source code?
+### Dove posso trovare i dati grezzi e il codice sorgente?
 
-The raw data is available [here](https://tools.qubes-os.org/counter/stats.json).
-(This does not include any personally-identifying user data.)
-Please note that the format of this data is not documented and may change any time if the developers feel the need to include something else.
-The source code is available [here](https://github.com/woju/qubes-stats).
+I dati grezzi sono disponibili [qui](https://tools.qubes-os.org/counter/stats.json).
+(Non includono dati o riferimenti agli utenti)
+Il formato di questi dati non è documentato e può cambiare in qualsiasi momento se gli sviluppatori sentono la necessità di includere altri campi.
+Il codice corgente è disponibilie  [qui](https://github.com/woju/qubes-stats).
