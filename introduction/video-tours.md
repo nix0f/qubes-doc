@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: site
 permalink: /video-tours/
 ref: 226
@@ -8,7 +8,7 @@ title: Video tours
 
 ## Qubes OS Summit 2022
 
-Watch all the talks from Qubes OS Summit 2022, which took place September 9-11, 2022 in Berlin, Germany.
+Guarda tutti gli interventi del Qubes OS Summit 2022, che si è svolto dal 9 all'11 settembre 2022 a Berlino, in Germania.
 
 <div class="video more-bottom">
   <iframe class="responsive" referrerpolicy="no-referrer" scrolling="no" allowfullscreen src="https://www.youtube-nocookie.com/embed/hkWWz3xGqS8"></iframe>
@@ -20,7 +20,7 @@ Watch all the talks from Qubes OS Summit 2022, which took place September 9-11, 
   <iframe class="responsive" referrerpolicy="no-referrer" scrolling="no" allowfullscreen src="https://www.youtube-nocookie.com/embed/gnWHjv-9_YM"></iframe>
 </div>
 
-## Micah Lee presents "Qubes OS: The Operating System That Can Protect You Even If You Get Hacked"
+## Micah Lee presenta "Qubes OS: il sistema operativo che può proteggerti anche se vieni violato"
 
 [Micah Lee](https://micahflee.com/), a long-time Qubes [advocate](/endorsements/), presented [Qubes OS: The Operating System That Can Protect You Even If You Get Hacked](https://www.hope.net/schedule.html#-qubes-os-the-operating-system-that-can-protect-you-even-if-you-get-hacked-) at the [Circle of HOPE](https://www.hope.net/index.html) conference, which took place July 20-22, 2018 in New York City.
 
