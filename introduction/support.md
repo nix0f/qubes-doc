@@ -25,26 +25,22 @@ Per prima cosa, vediamo di che tipo di aiuto hai bisogno.
 
 Nessun problema! Ecco come ti consigliamo di procedere:
 
-1. Check the [documentation](/doc/). There may already be a page about it.
-   Specifically, check out the [How-To Guides](/doc/#how-to-guides) and
-   [Troubleshooting](/doc/#troubleshooting) sections.
+1. Controlla la [documentazione](/doc/). Potrebbe esserci già una pagina a riguardo.
+   Nello specifico controlla nelle sezioni [How-To](/doc/#how-to-guides) e
+   [Risoluzione dei problemi](/doc/#troubleshooting).
 
 2. Cerca nelle [FAQ](/faq/). La tua domanda potrebbe già avere una risposta.
 
-3. Try [searching the issue tracker](/doc/issue-tracking/#search-tips). There
-   may already be an open **or closed** issue about your problem. The issue
-   tracker is constantly being updated with known bugs and may contain
-   workarounds for problems you're experiencing. If there are any pinned issues at
-   the top, make sure to check them first!
+3. Prova a [cercare nel  tracker dei problemi](/doc/issue-tracking/#search-tips). Potrebbe già esserci una richiesta aperta **o chiusa** relativa al tuo stesso problema. Il tracker
+   tracker viene costantemente aggiornato con bug noti e potrebbe contenere soluzioni alternative per i problemi che stai riscontrando. Se ci sono problemi appuntati su in alto, assicurati di controllarli prima!
 
-4. Try [searching the Qubes Forum](https://forum.qubes-os.org/). There may
-   already be a matching topic.
+4. Prova a [cercare nel forum di Qubes](https://forum.qubes-os.org/). Potrebbe
+   essere già un argomento di discussione.
 
-5. Try [searching the `qubes-users`
-   archives](https://www.mail-archive.com/qubes-users@googlegroups.com/). There
-   may have already been a relevant thread.
+5. Prova a [cercare nell'archivio del gruppo `qubes-users`](https://www.mail-archive.com/qubes-users@googlegroups.com/). 
+Potrebbe esserci già un thread pertinente.
 
-### I didn't find a solution or an answer!
+###  Non ho trovato una soluzione o una risposta!
 
 Sorry to hear that! In that case, we recommend asking for help on the [Qubes
 Forum](https://forum.qubes-os.org/) or on the [`qubes-users` mailing
@@ -54,34 +50,34 @@ guidelines](#discussion-guidelines) and StackOverflow's advice on [how to ask
 good questions](https://stackoverflow.com/help/how-to-ask). Don't forget to
 [stay safe](#staying-safe)!
 
-### I don't need support, but I think I found a bug.
+### Non ho bisogno di supporto, ma penso di aver trovato un bug.
 
 We'd be grateful if you reported it (but please make sure no one else has
 already reported it first)! Please see [Issue Tracking](/doc/issue-tracking/)
 for details.
 
-### I don't need support, but I'd like to request a feature.
+### Non ho bisogno di supporto, ma vorrei richiedere una funzionalità.
 
 No promises, but we'd be happy to consider it! Please see [Issue
 Tracking](/doc/issue-tracking/) for details.
 
-### Where's the best place to discuss Qubes?
+### Qual è il posto migliore per discutere di Qubes?
 
 That would be the [Qubes Forum](https://forum.qubes-os.org/) and the
 [`qubes-users` mailing list](#qubes-users). Please have a look at our
 [discussion guidelines](#discussion-guidelines) before diving in. Enjoy!
 
-### How can I get involved and contribute?
+### Come posso partecipare e contribuire?
 
 Thank you for asking! Please see [How to Contribute](/doc/contributing/) for
 all the ways you can do so.
 
-### I would like to report a security vulnerability.
+### 
+Vorrei segnalare una vulnerabilità nella sicurezza.
 
-That sounds more like you helping us! Thanks! Please see [Reporting Security
-Issues in Qubes OS](/security/#reporting-security-issues-in-qubes-os).
+Sembra sia tu ad aiutare noi! Grazie! Visita [Segnalazione di problemi di sicurezza in Qubes OS](/security/#reporting-security-issues-in-qubes-os).
 
-## Staying safe
+## Stai al sicuro
 
 The Qubes mailing lists and forum are open to the public. The contents are
 crawled by search engines and archived by third-party services outside of our
