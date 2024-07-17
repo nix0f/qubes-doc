@@ -25,26 +25,21 @@ its creation.
 
 ## Il nostro impegno
 
-The Qubes OS project creates a reasonably secure OS. In the interest of
-fostering an open and welcoming environment, we as contributors and maintainers
-pledge to make participation in our project and our community a harassment-free
-experience for everyone, regardless of age, body size, disability, ethnicity,
-gender identity and expression, level of experience, nationality, personal
-appearance, race, religion, sexual identity and orientation, or other
-characteristic.
+Il progetto Qubes OS è nato allo scopo di creare un sistema operativo ragionevolmente sicuro. Nell'interesse di promuovere un ambiente aperto e accogliente, noi come contributori e manutentori ci impegniamo a rendere la partecipazione al nostro progetto e alla nostra comunità un'esperienza priva di discriminazioni, indipendentemente dall'età, dalla corporatura, dalla disabilità, dall'etnia, dall'identità e dall'espressione di genere, livello di esperienza, nazionalità, aspetto personale, razza, religione, identità e orientamento sessuale o altre caratteristiche.
+
 
 ## I nostri standard
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Esempi di comportamenti che contribuiscono a creare un ambiente positivo
+sono:
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+- Utilizzare un linguaggio accogliente e inclusivo
+- Essere rispettosi dei diversi punti di vista ed esperienze
+- Accettare con garbo le critiche costruttive
+- Concentrarsi su ciò che è meglio per la comunità
+- Mostrare empatia verso gli altri membri della comunità
 
-Examples of unacceptable behavior by participants include:
+Esempi di comportamenti inaccettabili da parte dei partecipanti sono:
 
 - The use of sexualized language or imagery and unwelcome sexual attention or
   advances
@@ -58,7 +53,7 @@ Examples of unacceptable behavior by participants include:
 - Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-(Please also see our [discussion guidelines](/support/#discussion-guidelines).)
+(Consulta le nostre [linee guida per le discussioni](/support/#discussion-guidelines).)
 
 ## Le nostre responsabilità
 
