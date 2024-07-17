@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /faq/
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 - /doc/UserFaq/
 - /wiki/UserFaq/
 - /doc/devel-faq/
-- /en/doc/devel-faq/
+- /it/doc/devel-faq/
 - /doc/DevelFaq/
 - /wiki/DevelFaq/
 ref: 124
@@ -17,11 +17,11 @@ title: Frequently asked questions (FAQ)
 
 ## General & Security
 
-### What is Qubes OS?
+### Cos'è Qubes OS?
 
 Qubes OS is a security-focused operating system that allows you to organize your digital life into compartments called "qubes." If one qube is compromised, the others remain safe, so a single cyberattack can no longer take down your entire digital life in one fell swoop. You can think of using Qubes OS as having many different computers on your desk for different activities but with the convenience of a single physical machine, a single unified desktop environment, and a set of tools for using qubes together securely as parts of a unified system.
 
-### Is Qubes OS free and open-source software?
+### Qubes OS è un software libero e open-source?
 
 There are two distinct senses of the word "free" when it comes to free software. The difference in commonly expressed by the phrases "free as in beer" and "free as in speech."
 
@@ -37,7 +37,7 @@ In order to make the installation process easier for a wide range of users acros
 
 Also see: [Will Qubes seek to get certified under the GNU Free System Distribution Guidelines (GNU FSDG)?](#will-qubes-seek-to-get-certified-under-the-gnu-free-system-distribution-guidelines-gnu-fsdg)
 
-### Why is OS security important?
+### Perché la sicurezza del sistema operativo è importante?
 
 Most people use an operating system like Windows or macOS on their desktop and laptop computers.
 These OSes are popular because they tend to be easy to use and usually come pre-installed on the computers people buy.
@@ -48,7 +48,7 @@ This could jeopardize all the information stored on or accessed by this computer
 Malware can also interfere with the activities you perform with your computer.
 For example, if you use your computer to conduct financial transactions, the malware might allow its creator to make fraudulent transactions in your name.
 
-### Aren't antivirus programs and firewalls enough?
+### I programmi antivirus e i firewall non bastano?
 
 Unfortunately, conventional security approaches like antivirus programs and (software and/or hardware) firewalls are no longer enough to keep out sophisticated attackers.
 For example, nowadays it's common for malware creators to check to see if their malware is recognized by any signature-based antivirus programs.
@@ -58,7 +58,7 @@ By then, it's too late for those who have already been compromised.
 More advanced antivirus software may perform better in this regard, but it's still limited to a detection-based approach.
 New zero-day vulnerabilities are constantly being discovered in the common software we all use, such as our web browsers, and no antivirus program or firewall can prevent all of these vulnerabilities from being exploited.
 
-### How does Qubes OS provide security?
+### In che modo Qubes OS assicura maggiore sicurezza?
 
 Qubes takes an approach called **security by compartmentalization**, which
 allows you to compartmentalize the various parts of your digital life into
@@ -78,7 +78,7 @@ The innovative [Template](/doc/template-implementation) system separates softwar
 Qubes even allows you to sanitize PDFs and images in a few clicks.
 Those concerned about physical hardware attacks will benefit from [Anti Evil Maid](/doc/anti-evil-maid/).
 
-### How does Qubes OS provide privacy?
+### In che modo Qubes OS assicura maggiore privacy?
 
 There can be no privacy without security, since security vulnerabilities allow privacy measures to be circumvented.
 This makes Qubes exceptionally well-suited for implementing effective privacy tools.
