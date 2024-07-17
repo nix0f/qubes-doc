@@ -58,14 +58,13 @@ Tracking](/doc/issue-tracking/) per i dettagli
 
 ### Qual è il posto migliore per discutere di Qubes?
 
-That would be the [Qubes Forum](https://forum.qubes-os.org/) and the
-[`qubes-users` mailing list](#qubes-users). Please have a look at our
-[discussion guidelines](#discussion-guidelines) before diving in. Enjoy!
+Il posto migliore è il [forum di Qubes](https://forum.qubes-os.org/) e la
+[`qubes-users` mailing list](#qubes-users). Consulta le
+[linee guida di discussione](#discussion-guidelines) prima di iniziare. Buon divertimento!
 
 ### Come posso partecipare e contribuire?
 
-Thank you for asking! Please see [How to Contribute](/doc/contributing/) for
-all the ways you can do so.
+Grazie oer averlo chiesto! Consuula la pagina [come contribuire](/doc/contributing/) per conoscere tutti i modi in cui puoi farlo.
 
 ### 
 Vorrei segnalare una vulnerabilità nella sicurezza.
@@ -74,11 +73,10 @@ Sembra sia tu ad aiutare noi! Grazie! Visita [Segnalazione di problemi di sicure
 
 ## Stai al sicuro
 
-The Qubes mailing lists and forum are open to the public. The contents are
-crawled by search engines and archived by third-party services outside of our
-control. Please do not send or post anything that you are not comfortable
-seeing discussed in public. If confidentiality is a concern, please use PGP
-encryption in an off-list email.
+Le mailing list e il forum di Qubes sono aperti al pubblico. I contenuti vengono
+scansionati dai motori di ricerca e archiviati da servizi di terze parti esterni al nostro
+controllo. Non inviare o pubblicare nulla che non ti possa mettere a disagio se affrontata in pubblico. Se la riservatezza è un problema, utilizza la crittografia PGP
+con un'e-mail fuori elenco.
 
 The Qubes community includes people from all walks of life and from around the
 world. Individuals differ in areas of experience and technical expertise. You
@@ -500,13 +498,21 @@ news.
 
 ## Chat
 
-If you'd like to chat, join us on
-- the `#qubes` channel on `irc.libera.chat` or
-- the `#qubes:invisiblethingslab.com` matrix channel.
+Se desideri chattare, unisciti a noi su
+- canale `#qubes` su  `irc.libera.chat` o
+- `#qubes:invisiblethingslab.com` sul canale matrix
 
-these two should be linked/bridged, but for technical reasons currently are not.
+questi due canali, idealmente, dovrebbero essere collegati ma per questioni tecniche al momento non lo sono.
 
-## Unofficial venues
+## Canali non ufficiali
+
+Se trovi un altro canale che non è elencato qui sopra, si tratta di un canale
+**non ufficiale**.. Questo significa che il team di Qubes **non** lo tiene monitorato e non lo
+moderara. Pestate quindi particolare attenzione quando utilizzate canali non ufficiali.
+
+(Nota: se un membro del team Qubes decidesse di partecipare a un canale, quello
+non deve comunque essere considerato un impegno al monitorare o alla moderazione del canale. Rimane sempre un canale non ufficiale. Inoltre, assicurati che non sia qualcuno che afferma di essere del team di Qubes
+quando non lo è. Potrebbe essere un impostore!)
 
 If you find another venue on the Internet that is not listed above, it is
 **unofficial**, which means that the Qubes team does **not** monitor or
