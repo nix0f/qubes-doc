@@ -60,14 +60,11 @@ and other contributions, or to ban temporarily or permanently any contributor
 for other behaviors that they deem inappropriate, threatening, offensive, or
 harmful.
 
-## Scopo
+## Ambito
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an
-appointed representative at an online or offline event. Representation of a
-project may be further defined and clarified by project maintainers.
+Questo Codice di condotta si applica sia negli spazi interni del progetto che in pubblico quando si rappresenta il progetto o la sua comunità. Esempi di rappresentanza di un progetto o di una comunità includono l'utilizzo di un indirizzo e-mail ufficiale del progetto, la pubblicazione tramite un account di social media ufficiale o agire quale rappresentante designato in un evento online o offline. Altri tipi di rappresentanza del progetto possono essere ulteriormente definiti e chiariti di volta in volta dai manutentori del progetto.
+
+
 
 In all other cases, this Code of Conduct applies only in the official project
 venues specified on [this page](/support/); it does not apply to unofficial
