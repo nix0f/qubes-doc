@@ -24,7 +24,7 @@ Grazie per il tuo interesse nel contribuire a Qubes! Ecco alcuni dei tanti modi 
   temi per l'installer, wallpapers, ecc.)
 * [Scrivi e modifica la documentazione](/doc/how-to-edit-the-documentation)
 * [Fai una donazione](/donate/) al progetto
-* Se sei un'azienda o organizzazione, diventa un [Qubes partner](/partners/)
+* Se sei un'azienda o un'organizzazione, diventa un [Qubes partner](/partners/)
 * Aggiungi un [mirror di download per Qubes](/downloads/mirrors/)
 * Rispondi alle domande e discussioni sulla [mailing lists](/support/) e
   [forum](/support/#forum) di Qubes OS
