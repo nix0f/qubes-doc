@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /doc/
 redirect_from:
