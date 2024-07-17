@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /doc/contributing/
 redirect_from:
@@ -7,13 +7,12 @@ redirect_from:
 - /doc/ContributingHowto/
 - /wiki/ContributingHowto/
 ref: 125
-title: How to contribute
+title: Come contribuire
 ---
 
-Thank you for your interest in contributing to Qubes! Here are some of the many
-ways in which you can help:
+Grazie per il tuo interesse nel contribuire a Qubes! Ecco alcuni dei tanti modi in cui puoi aiutare il progetto:
 
-* Audit the [source code](/doc/source-code/)
+* Controllare il [codice sorgente](/doc/source-code/)
 * [Report security issues](/security/)
 * [Send patches](/doc/source-code/#how-to-send-patches) to fix bugs or
   implement features
