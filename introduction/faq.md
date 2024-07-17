@@ -155,9 +155,9 @@ Briefly, here are some of the main pros and cons of this approach relative to Qu
 
 (For more on this topic, please see the paper [Software compartmentalization vs. physical separation](https://invisiblethingslab.com/resources/2014/Software_compartmentalization_vs_physical_separation.pdf).)
 
-### What is the main concept behind Qubes?
+### Qual è l'idea principale dietro Qubes OS?
 
-To build security on the "Security by Compartmentalization (or Isolation)" principle.
+Costruire la sicurezza attraverso il principio della "Sicurezza di compartimentazione (o isolamento).
 
 ### What about other approaches to security?
 
