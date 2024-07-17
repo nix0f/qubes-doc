@@ -44,18 +44,10 @@ I maintainer del progetto hanno la responsabilità di far rispettare gli standar
 
 ## Ambito
 
-Questo Codice di condotta si applica sia negli spazi interni del progetto che in pubblico quando si rappresenta il progetto o la sua comunità. Esempi di rappresentanza di un progetto o di una comunità includono l'utilizzo di un indirizzo e-mail ufficiale del progetto, la pubblicazione tramite un account di social media ufficiale o agire quale rappresentante designato in un evento online o offline. Altri tipi di rappresentanza del progetto possono essere ulteriormente definiti e chiariti di volta in volta dai manutentori del progetto.
+Questo Codice di condotta si applica sia negli spazi interni del progetto che in pubblico quando si rappresenta il progetto o la sua comunità. Esempi di rappresentanza di un progetto o di una comunità includono l'utilizzo di un indirizzo e-mail ufficiale del progetto, la pubblicazione tramite un account di social media ufficiale o agire quale rappresentante designato in un evento online o offline. Altri tipi di rappresentanza del progetto possono essere ulteriormente definiti e chiariti dai manutentori del progetto.
 
+In tutti gli altri casi non previsti, questo Codice di Condotta si applica esclusivamente agli spazi ufficiali del progetto specificati in [questa pagina](/support/). Non si applica a spazi non ufficiali, non gestiti dalla community o ad altri luoghi pubblici o privati. Ad esempio, se un utente di Qubes decide di creare uno spazio di discussione non ufficiale su una piattaforma di terze parti e qualcuno sembra violare questo Codice di Condotta in quello spazio, non siamo responsabili di intraprendere alcuna azione nei confronti di quel comportamento, della piattaforma, dei creatori, proprietari, responsabili o moderatori della piattaforma stessa, o di qualsiasi altra cosa relativa all'incidente.
 
-
-In all other cases, this Code of Conduct applies only in the official project
-venues specified on [this page](/support/); it does not apply to unofficial
-venues, community-run venues, or any other public or private place. For
-example, if a Qubes user decides to create an unofficial discussion space on a
-third-party platform, and someone appears to violate this Code of Conduct in
-that space, we are not responsible for taking any action with respect to that
-behavior; the venue; the venue's creators, owners, leaders, or moderators; or
-anything else pertaining to the incident.
 
 ## Enforcement
 
