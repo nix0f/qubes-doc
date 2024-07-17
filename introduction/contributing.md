@@ -38,10 +38,8 @@ Grazie per il tuo interesse nel contribuire a Qubes! Ecco alcuni dei tanti modi 
 Contribuire al Codice
 -----------------
 
-If you're interested in contributing code, the best starting point is to have a
-look at our [GitHub issues](https://github.com/QubesOS/qubes-issues/issues) to
-see which tasks are the most urgent. You can filter issues depending on your
-interest and experience. For example, here are some common issue labels:
+Se sei interessato a contribuire al codice di Qubes, il miglior punto di partenza è la pagina [GitHub issues](https://github.com/QubesOS/qubes-issues/issues) nella quale troverai la lista delle cose più urgenti da fare. 
+see which tasks are the most urgent. Puoi filtrare le attività in base ai tuoi interessi e alla tua esperienza. Ecco alcune delle etichette utilizzate:
 
 * [Richieste Aiuto](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22&utf8=%E2%9C%93)
 * [UX e usabilità](https://github.com/QubesOS/qubes-issues/issues?q=is%3Aissue+is%3Aopen+label%3AUX)
