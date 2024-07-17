@@ -51,21 +51,10 @@ In tutti gli altri casi non previsti, questo Codice di Condotta si applica esclu
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project CoC team at `mods@qubes-os.org`. The project
-CoC team is the [Marek
-Marczykowski-Górecki](/team/#marek-marczykowski-g%C3%B3recki), [Andrew David
-Wong](/team/#andrew-david-wong), and [Michael Carbone](/team/#michael-carbone).
-All complaints will be reviewed and investigated and will result in a response
-that is deemed necessary and appropriate to the circumstances. The project team
-is obligated to maintain confidentiality with regard to the reporter of an
-incident, and will ensure reporter, reported and all others impacted are
-regularly updated through the process. Further details of specific enforcement
-policies may be posted separately.
+Casi di comportamento offensivo, molesto o comunque non accettabili possono essere segnalati contattando il team CoC del progetto all'indirizzo `mods@qubes-os.org`. Il team CoC è composto da [Marek
+Marczykowski-Górecki](/team/#marek-marczykowski-g%C3%B3recki), [Andrew David Wong](/team/#andrew-david-wong), and [Michael Carbone](/team/#michael-carbone).
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Tutte le segnalazioni saranno esaminate, vagliate e si riceverà una risposta appropriata alle circostanze. Il team del progetto è tenuto a mantenere la riservatezza nei confronti di chi segnala un incidente garantendo il segnalatore, chi viene segnalato e tutti gli altri coinvolti saranno avvisati e regolarmente aggiornati durante tutto l'iter. Ulteriori dettagli su specifiche politiche di applicazione potrebbero essere pubblicati separatamente.
 
 ## Una nota sulla fiducia
 
