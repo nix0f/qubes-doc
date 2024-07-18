@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: it
 layout: doc
 permalink: /doc/qubes-iso-building/
 redirect_from:
@@ -9,13 +9,12 @@ redirect_from:
 - /doc/QubesR3Building/
 - /wiki/QubesR3Building/
 ref: 63
-title: Qubes ISO building
+title: Creazione ISO di Qubes
 ---
 
 <div class="alert alert-warning" role="alert">
   <i class="fa fa-exclamation-circle"></i>
-  <b>Note:</b> These instructions concern the older Qubes builder (v1). It supports
-  only building Qubes 4.2 or earlier.<br>The build process has been completely rewritten in <a href="https://github.com/QubesOS/qubes-builderv2/">qubes-builder v2</a>. This can be used for building Qubes R4.2 and later versions, and all related components.
+  <b>Nota:</b> Queste istruzioni fanno riferimento a Qubes builder (v1). E' supportata la creazione fino alla versione 4.2 di Qubes (o versioni precedenti).<br>Il processo di creazione è stato completamente riscritto in <a href="https://github.com/QubesOS/qubes-builderv2/">qubes-builder v2</a> che può essere utilizzato per la creazione di Qubes R4.2 e versioni successive e tutti i componenti correlati.
 </div>
 
 Build Environment
